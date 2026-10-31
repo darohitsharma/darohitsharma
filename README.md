@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Sharma 👋
 
-I'm a data analyst from India. I work across category, finance and sales data analysis, using SQL, Python and BI tools to turn raw data into decisions.
+I'm a data analyst. I work across category, finance and sales data analysis, using SQL, Python and BI tools to turn raw data into decisions.
 
 ## About me
 - Currently: Data Analyst at NatHabit (D2C)
