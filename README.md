@@ -25,11 +25,12 @@ I'm a data analyst from India working across D2C, automotive and manufacturing -
 | Project | What it does |
 | --- | --- |
 | [**cs-dashboard**](https://github.com/darohitsharma/cs-dashboard) · [Live demo](https://darohitsharma.github.io/cs-dashboard/) | Standalone, read-only browser dashboard for customer-query data kept in a Google Sheet (Vite, vanilla JS, Chart.js; no backend, no tracking). The demo signs in with Google and reads the viewer's own sheet - real data needs access to the private sheet. |
-| **CS Query Intent & D2C Search Query Analysis** (internal work project) | Rule-based 3-tier intent taxonomy classifying customer-service tickets and D2C search queries (5 primary, 13 secondary intents), mapped to 40+ product categories; Pareto analysis isolated the top 75% of customer concerns and surfaced 9 category-expansion opportunities (Hair Color, Sunscreen, Serum). The classified data is what the cs-dashboard above visualizes. |
-| **Inventory Replenishment & Variant Movement Analysis - TTR Model** (internal work project) | Time-to-Replenish model estimating SKU-level replenishment timing from sales velocity, inventory days and stockout rate, cutting stockout risk; variant-switching analysis informs assortment planning and pricing strategy. |
+| **CS Query Intent & D2C Search Query Analysis** (internal work project) | Rule-based 3-tier intent taxonomy classifying customer-service tickets and D2C search queries (5 primary, 13 secondary intents), mapped to 40+ product categories; Pareto analysis isolated the top 75% of customer concerns to prioritize fixes. The classified data is what the cs-dashboard above visualizes. |
+| **Inventory Replenishment & Variant Movement Analysis - TTR Model** (internal work project) | Time-to-Replenish model estimating SKU-level replenishment timing from sales velocity, inventory days and stockout rate; variant-switching analysis supports replenishment, assortment planning and pricing decisions. |
 | [**Sql-data-warehouse-project**](https://github.com/darohitsharma/Sql-data-warehouse-project) | SQL Server data warehouse consolidating ERP and CRM sales data, with data-quality cleaning and SQL analytics on customer behavior, product performance and sales trends. |
 | [**Insurance-premium_prediction-Model**](https://github.com/darohitsharma/Insurance-premium_prediction-Model) | Regression models (linear, SVR, random forest, gradient boosting) predicting health insurance premiums on a Kaggle dataset, with a Streamlit web app. |
 
 ## Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aianalystrohit/)
+
