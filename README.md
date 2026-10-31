@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Sharma 👋
 
-I'm a data and business analyst from India with 3+ years across D2C, automotive and manufacturing. I work across category, finance and sales data analysis, turning raw data into business decisions with SQL, Python and BI tools.
+I'm a data analyst from India working across D2C, automotive and manufacturing. I work across category, finance and sales data analysis, business analytics and strategy, turning raw data into business decisions with SQL, Python and BI tools.
 
 ## About me
 - Currently: Data Analyst at NatHabit (D2C) - marketshare reporting automation, category P&L and unit economics (CAC, ROAS, CM1-CM3), cohort & retention analysis, marketplace spend mix, finance closures and revenue reconciliation
