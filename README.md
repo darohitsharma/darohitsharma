@@ -3,7 +3,7 @@
 I'm a data analyst from India. I work across category, finance and sales data analysis, using SQL, Python and BI tools to turn raw data into decisions.
 
 ## About me
-- Currently: Data Analyst at NatHabit (D2C) - category, finance and sales data analysis
+- Currently: Data Analyst at NatHabit (D2C)
 - Previously: Data Analyst, Sales & Operations at Mahindra & Mahindra; Data Analyst at Derewala Industries
 - Stack: SQL (ClickHouse, PostgreSQL), Python, Power BI, Metabase, Tableau
 
